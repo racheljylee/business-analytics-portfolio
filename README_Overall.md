@@ -20,7 +20,7 @@ Built a scalable data pipeline using Apache NiFi and PySpark to process and anal
 
 ---
 
-### Business Performance Review — Data Visualization
+### eVery Business Performance Review — Data Visualization
 `Power BI · Business Analytics · Data Storytelling`
 
 A 5-year business performance review (2020–Q1 2025) for eVery, a health supplements e-commerce company. Translates raw sales data into an executive-facing Power BI report covering revenue trends, platform and category mix, and regional performance across Canada, UK, and USA.
