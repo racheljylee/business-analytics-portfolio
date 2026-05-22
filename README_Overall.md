@@ -47,7 +47,7 @@ Classification model predicting whether a song will be a commercial hit, using a
 
 ---
 
-### Big Data & AI in Business Strategy
+### Big Data & AI in Business Strategy (AI and Strategy)
 `Strategic Analysis · AI Applications · Business Frameworks`
 
 Individual research project examining how organisations leverage big data and AI to gain strategic advantage. Bridges academic frameworks with real-world case applications.
