@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Airbnb Singapore — Market Insights & Pricing Strategy
+### Airbnb Singapore - Market Insights & Pricing Strategy (Python)
 `Python · Pandas · Data Visualisation · Market Analysis`
 
 End-to-end analysis of Singapore's Airbnb market to surface pricing inefficiencies and actionable host strategy recommendations. Combines exploratory data analysis, geospatial insights, and pricing modelling to understand how neighbourhood, property type, and listing characteristics drive revenue.
@@ -11,7 +11,7 @@ End-to-end analysis of Singapore's Airbnb market to surface pricing inefficienci
 
 ---
 
-### Apple Global Sales Strategy — Modern Data Architecture
+### Apple Global - Sales Strategy (Modern Data Architecture)
 `PySpark · Apache NiFi · Big Data Pipeline · Business Strategy`
 
 Built a scalable data pipeline using Apache NiFi and PySpark to process and analyse Apple's global sales data. Translates large-scale transactional data into strategic business insights around product performance, regional trends, and revenue concentration.
@@ -20,7 +20,7 @@ Built a scalable data pipeline using Apache NiFi and PySpark to process and anal
 
 ---
 
-### Seattle Parking Demand — Pricing Strategy
+### Seattle Parking Demand — Pricing Strategy (Modern Data Architecture)
 `PySpark · Apache NiFi · Demand Modelling · Pricing Analytics`
 
 Applied a modern data architecture stack to analyse Seattle parking occupancy patterns and develop a demand-based dynamic pricing strategy. Demonstrates how city-scale data can inform infrastructure pricing decisions.
@@ -29,7 +29,7 @@ Applied a modern data architecture stack to analyse Seattle parking occupancy pa
 
 ---
 
-### Real Estate Pricing Strategy
+### Madrid Real Estate - Market Insights & Pricing Strategy (Machine Learning)
 `Python · Machine Learning · Regression · Feature Engineering`
 
 Predictive model to estimate property prices using supervised learning techniques. Includes feature selection, model evaluation, and business interpretation of key pricing drivers — connecting ML outputs to real estate investment strategy.
@@ -38,7 +38,7 @@ Predictive model to estimate property prices using supervised learning technique
 
 ---
 
-### Song Hit Prediction — Marketing Strategy
+### Song Hit Prediction — Insights & Marketing Strategy (Machine Learning)
 `Python · Classification · Machine Learning · Marketing Analytics`
 
 Classification model predicting whether a song will be a commercial hit, using audio features and metadata. Frames the ML output as a marketing strategy tool for music label A&R and campaign investment decisions.
