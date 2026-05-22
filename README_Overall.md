@@ -20,12 +20,12 @@ Built a scalable data pipeline using Apache NiFi and PySpark to process and anal
 
 ---
 
-### Seattle Parking Demand — Pricing Strategy (Modern Data Architecture)
-`PySpark · Apache NiFi · Demand Modelling · Pricing Analytics`
+### Business Performance Review — Data Visualization
+`Power BI · Business Analytics · Data Storytelling`
 
-Applied a modern data architecture stack to analyse Seattle parking occupancy patterns and develop a demand-based dynamic pricing strategy. Demonstrates how city-scale data can inform infrastructure pricing decisions.
+A 5-year business performance review (2020–Q1 2025) for eVery, a health supplements e-commerce company. Translates raw sales data into an executive-facing Power BI report covering revenue trends, platform and category mix, and regional performance across Canada, UK, and USA.
 
-[View Project](./Modern%20Data%20Architecture/seattle-parking-demand-pricing-strategy/)
+[View Project](./Data%20Visualization/every-business-performance-review/)
 
 ---
 
@@ -47,6 +47,15 @@ Classification model predicting whether a song will be a commercial hit, using a
 
 ---
 
+### Seattle Parking Demand — Pricing Strategy (Modern Data Architecture)
+`PySpark · Apache NiFi · Demand Modelling · Pricing Analytics`
+
+Applied a modern data architecture stack to analyse Seattle parking occupancy patterns and develop a demand-based dynamic pricing strategy. Demonstrates how city-scale data can inform infrastructure pricing decisions.
+
+[View Project](./Modern%20Data%20Architecture/seattle-parking-demand-pricing-strategy/)
+
+---
+
 ### Big Data & AI in Business Strategy (AI and Strategy)
 `Strategic Analysis · AI Applications · Business Frameworks`
 
@@ -61,10 +70,10 @@ Individual research project examining how organisations leverage big data and AI
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL |
+| **Visualisation** | Power BI, Matplotlib, Seaborn |
 | **Data Processing** | PySpark, Pandas, NumPy |
 | **Machine Learning** | Scikit-learn, Regression, Classification |
-| **Data Pipeline** | Apache NiFi |
-| **Visualisation** | Matplotlib, Seaborn |
+| **Data Pipeline** | Apache NiFi, Kafka, PySpark |
 | **Environment** | Jupyter Notebooks, VS Code, Conda |
 | **Version Control** | Git, GitHub |
 
